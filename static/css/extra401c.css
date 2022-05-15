@@ -1,0 +1,7 @@
+.mediaAdvert {
+  font-size:12px;
+  border: 1px solid #ccc!important;
+  padding:10px;
+  color:var(--dimensions-blue)!important;
+  text-decoration: none ;
+  }
